@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "bzmb-mp3concat",
   "version": "1.0.0",
-  "description": "A minimal example plugin for bzBond server",
+  "description": "A bzBond-server MicroBond to concatenate mp3 files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
