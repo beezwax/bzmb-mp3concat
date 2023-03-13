@@ -4,6 +4,8 @@ const fs = require("fs");
 const os = require("os");
 const crypto = require("crypto");
 
+process.env.FFMPEG_PATH = "/opt/homebrew/bin/ffmpeg";
+
 const concat = async (files) => {
   // Create temp directory
   const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), "mp3s-"));

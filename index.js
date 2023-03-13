@@ -20,6 +20,7 @@ async function bzmbmp3concat(fastify, options) {
         .send(base64Mp3);
     } catch (error) {
       res
+        .code(500)
         .send(error);
     }
   });
