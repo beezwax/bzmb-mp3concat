@@ -26,4 +26,4 @@ async function bzmbmp3concat(fastify, options) {
   });
 };
 
-module.exports = { plugin: bzmbmp3concat };
+module.exports = { microbond: bzmbmp3concat };

@@ -6,9 +6,9 @@ A [bzBond-server](https://github.com/beezwax/bzBond/tree/main/packages/bzBond-se
 
 On a server with bzBond-server installed run the following command:
 
-`/var/www/bzbond-server/bin/install-plugin.sh bzmb-mp3concat beezwax/bzmb-mp3concat`
+`/var/www/bzbond-server/bin/install-microbond.sh bzmb-mp3concat beezwax/bzmb-mp3concat`
 
-See the [bzBond-server documentation](https://github.com/beezwax/bzBond/tree/main/packages/bzBond-server#installing-plugins) for more details on installation.
+See the [bzBond-server documentation](https://github.com/beezwax/bzBond/tree/main/packages/bzBond-server#installing-microbonds) for more details on installation.
 
 ## Usage
 
